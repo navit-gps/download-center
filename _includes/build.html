@@ -1,0 +1,42 @@
+<!-- Start -->
+{% assign build_name = include.build[0]  %}
+{% assign isbuild = include.build[0] | split:'_' %}
+{% if isbuild[0] == 'build' %}
+{% assign build = include.build[1] | sort %}
+{% assign artifacts = build | last %}
+
+<div class="card row mt-3" id="{{ build_name | downcase }}" >
+  <div class="card-body">
+    <h5 class="card-title">{{ site.data.name_mapping[build_name]["value"] | smartify }}</h5>
+    <p class="card-text">{{ site.data.name_mapping[build_name]["help_text"] | smartify }}</p>
+
+{% for artifact in artifacts[1] %}
+    {% capture sub_string %}{{'exe'}}{% endcapture %}
+    {% capture some_string %}{{ artifact.pretty_path }}{% endcapture %}
+    
+    {% assign filename = artifact.pretty_path | split:'/' | last %}
+
+    {% assign sub_string_size = sub_string | size %}
+    {% assign some_string_size = some_string | size %}
+    {% assign start_index = some_string_size | minus: sub_string_size %}
+    {% assign result = some_string | slice: start_index, sub_string_size %}
+    {% if result == 'apk' %}
+        <a href="{{ artifact.url }}" class="btn btn-primary mt-1">Download: {{ filename }}</a>
+    {% endif %}
+    {% if result == 'exe' %}
+        <a href="{{ artifact.url }}" class="btn btn-primary mt-1">Download: {{ filename }}</a>
+    {% endif %}
+    {% if result == 'zip' %}
+        <a href="{{ artifact.url }}" class="btn btn-primary mt-1">Download: {{ filename }}</a>
+    {% endif %}
+    {% if result == 'deb' %}
+        <a href="{{ artifact.url }}" class="btn btn-primary mt-1">Download: {{ filename }}</a>
+    {% endif %}
+    {% if filename == 'navit.sh' or filename == 'navit.tar.gz' %}
+        <a href="{{ artifact.url }}" class="btn btn-primary mt-1">Download: {{ filename }}</a>
+    {% endif %}
+{% endfor %}
+{% endif %}
+<!-- Stop -->
+  </div>
+</div>
