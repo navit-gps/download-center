@@ -45,8 +45,8 @@ title: Navit Download Center
 
     <main class="container">
       
-      
-      {% for builds in site.data %}
+      {% assign dataa = site.data | sort %}
+      {% for builds in dataa %}
         {% assign build_name = builds[0]  %}
         {% include build.html build=builds%}
       {% endfor %}
