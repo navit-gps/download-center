@@ -2,6 +2,7 @@
 layout: default
 title: Navit Download Center
 ---
+{% assign site_data = site.data | sort %}
 <!doctype html>
 <html lang="en">
   <head>
@@ -33,7 +34,7 @@ title: Navit Download Center
 
       <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
-          {% for builds in site.data %}
+          {% for builds in site_data %}
           {% assign build_name = builds[0]  %}
           <li class="nav-item">
             <a class="nav-link disabled" href="#{{ build_name | downcase }}">{{ site.data.name_mapping[build_name]["value"] }}</a>
@@ -45,8 +46,7 @@ title: Navit Download Center
 
     <main class="container">
       
-      {% assign dataa = site.data | sort %}
-      {% for builds in dataa %}
+      {% for builds in site_data %}
         {% assign build_name = builds[0]  %}
         {% include build.html build=builds%}
       {% endfor %}
