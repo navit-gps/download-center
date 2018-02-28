@@ -34,6 +34,9 @@ title: Navit Download Center
 
       <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link disabled" href="http://download-old.navit-project.org/">Old download server</a>
+          </li>
           {% for builds in site_data %}
           {% assign build_name = builds[0]  %}
           <li class="nav-item">
@@ -50,7 +53,6 @@ title: Navit Download Center
         {% assign build_name = builds[0]  %}
         {% include build.html build=builds%}
       {% endfor %}
-
 
     </main><!-- /.container -->
 
