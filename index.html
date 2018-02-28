@@ -49,6 +49,14 @@ title: Navit Download Center
 
     <main class="container">
       
+      <div class="card bg-warning row mt-3" id="old_download_center">
+        <div class="card-body"> 
+          <h5 class="card-title">Lagacy download center</h5> 
+          <p class="card-text">Here you can find all old download of the lagacy download center</p>   
+          <a class="btn btn-primary mt-1" href="http://legacy.navit-project.org/">legacy.navit-project.org</a>
+        </div> 
+      </div>
+      
       {% for builds in site_data %}
         {% assign build_name = builds[0]  %}
         {% include build.html build=builds%}
