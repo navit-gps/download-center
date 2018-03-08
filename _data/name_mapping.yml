@@ -22,6 +22,6 @@ build_win32:
   value: Windows
   help_text: For installation on Windows PCs (NSIS Installer)
   
-build_wince
+build_wince:
   value WinCE
   help_text: For all devices with WinCE on it, mostly mobile devices
