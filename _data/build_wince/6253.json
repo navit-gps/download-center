@@ -1,0 +1,21 @@
+[ {
+  "path" : "root/project/wince/output/navit.zip",
+  "pretty_path" : "root/project/wince/output/navit.zip",
+  "node_index" : 0,
+  "url" : "https://6253-30791823-gh.circle-artifacts.com/0/root/project/wince/output/navit.zip"
+}, {
+  "path" : "root/project/wince/output/icons/Makefile",
+  "pretty_path" : "root/project/wince/output/icons/Makefile",
+  "node_index" : 0,
+  "url" : "https://6253-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/Makefile"
+}, {
+  "path" : "root/project/wince/output/icons/cmake_install.cmake",
+  "pretty_path" : "root/project/wince/output/icons/cmake_install.cmake",
+  "node_index" : 0,
+  "url" : "https://6253-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/cmake_install.cmake"
+}, {
+  "path" : "root/project/wince/output/icons/desktop_icons/navit.desktop",
+  "pretty_path" : "root/project/wince/output/icons/desktop_icons/navit.desktop",
+  "node_index" : 0,
+  "url" : "https://6253-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/desktop_icons/navit.desktop"
+} ]
