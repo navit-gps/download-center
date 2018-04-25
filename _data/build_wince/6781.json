@@ -1,0 +1,576 @@
+[ {
+  "path" : "root/project/wince/output/navit.cab",
+  "pretty_path" : "root/project/wince/output/navit.cab",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/navit.cab"
+}, {
+  "path" : "root/project/wince/output/navit.exe",
+  "pretty_path" : "root/project/wince/output/navit.exe",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/navit.exe"
+}, {
+  "path" : "root/project/wince/output/navit.xml",
+  "pretty_path" : "root/project/wince/output/navit.xml",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/navit.xml"
+}, {
+  "path" : "root/project/wince/output/navit.zip",
+  "pretty_path" : "root/project/wince/output/navit.zip",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/navit.zip"
+}, {
+  "path" : "root/project/wince/output/icons/Makefile",
+  "pretty_path" : "root/project/wince/output/icons/Makefile",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/Makefile"
+}, {
+  "path" : "root/project/wince/output/icons/bus_halt.xpm",
+  "pretty_path" : "root/project/wince/output/icons/bus_halt.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/bus_halt.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/cmake_install.cmake",
+  "pretty_path" : "root/project/wince/output/icons/cmake_install.cmake",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/cmake_install.cmake"
+}, {
+  "path" : "root/project/wince/output/icons/dumping_station.xpm",
+  "pretty_path" : "root/project/wince/output/icons/dumping_station.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/dumping_station.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/flag_bk_tr.xpm",
+  "pretty_path" : "root/project/wince/output/icons/flag_bk_tr.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/flag_bk_tr.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/flag_bk_wh.xpm",
+  "pretty_path" : "root/project/wince/output/icons/flag_bk_wh.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/flag_bk_wh.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/flag_bl_wh.xpm",
+  "pretty_path" : "root/project/wince/output/icons/flag_bl_wh.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/flag_bl_wh.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/flag_wh_bk.xpm",
+  "pretty_path" : "root/project/wince/output/icons/flag_wh_bk.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/flag_wh_bk.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/gc_event.xpm",
+  "pretty_path" : "root/project/wince/output/icons/gc_event.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/gc_event.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/gc_multi.xpm",
+  "pretty_path" : "root/project/wince/output/icons/gc_multi.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/gc_multi.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/gc_mystery.xpm",
+  "pretty_path" : "root/project/wince/output/icons/gc_mystery.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/gc_mystery.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/gc_question.xpm",
+  "pretty_path" : "root/project/wince/output/icons/gc_question.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/gc_question.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/gc_reference.xpm",
+  "pretty_path" : "root/project/wince/output/icons/gc_reference.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/gc_reference.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/gc_stages.xpm",
+  "pretty_path" : "root/project/wince/output/icons/gc_stages.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/gc_stages.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/gc_tradi.xpm",
+  "pretty_path" : "root/project/wince/output/icons/gc_tradi.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/gc_tradi.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/gc_webcam.xpm",
+  "pretty_path" : "root/project/wince/output/icons/gc_webcam.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/gc_webcam.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/gui_sound_32.xpm",
+  "pretty_path" : "root/project/wince/output/icons/gui_sound_32.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/gui_sound_32.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/gui_sound_off_32.xpm",
+  "pretty_path" : "root/project/wince/output/icons/gui_sound_off_32.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/gui_sound_off_32.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/highway_exit.xpm",
+  "pretty_path" : "root/project/wince/output/icons/highway_exit.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/highway_exit.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/nav_left_1.xpm",
+  "pretty_path" : "root/project/wince/output/icons/nav_left_1.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/nav_left_1.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/nav_left_1_32.xpm",
+  "pretty_path" : "root/project/wince/output/icons/nav_left_1_32.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/nav_left_1_32.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/nav_left_2.xpm",
+  "pretty_path" : "root/project/wince/output/icons/nav_left_2.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/nav_left_2.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/nav_left_2_32.xpm",
+  "pretty_path" : "root/project/wince/output/icons/nav_left_2_32.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/nav_left_2_32.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/nav_right_1.xpm",
+  "pretty_path" : "root/project/wince/output/icons/nav_right_1.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/nav_right_1.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/nav_right_1_32.xpm",
+  "pretty_path" : "root/project/wince/output/icons/nav_right_1_32.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/nav_right_1_32.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/nav_right_2.xpm",
+  "pretty_path" : "root/project/wince/output/icons/nav_right_2.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/nav_right_2.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/nav_right_2_32.xpm",
+  "pretty_path" : "root/project/wince/output/icons/nav_right_2_32.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/nav_right_2_32.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/nav_straight.xpm",
+  "pretty_path" : "root/project/wince/output/icons/nav_straight.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/nav_straight.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/nav_straight_32.xpm",
+  "pretty_path" : "root/project/wince/output/icons/nav_straight_32.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/nav_straight_32.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/restroom.xpm",
+  "pretty_path" : "root/project/wince/output/icons/restroom.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/restroom.xpm"
+}, {
+  "path" : "root/project/wince/output/icons/trailerpark.xpm",
+  "pretty_path" : "root/project/wince/output/icons/trailerpark.xpm",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/trailerpark.xpm"
+}, {
+  "path" : "root/project/wince/output/maps/osm_bbox_11.3,47.9,11.7,48.2.bin",
+  "pretty_path" : "root/project/wince/output/maps/osm_bbox_11.3,47.9,11.7,48.2.bin",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/maps/osm_bbox_11.3%2C47.9%2C11.7%2C48.2.bin"
+}, {
+  "path" : "root/project/wince/output/maps/osm_bbox_11.3,47.9,11.7,48.2.xml",
+  "pretty_path" : "root/project/wince/output/maps/osm_bbox_11.3,47.9,11.7,48.2.xml",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/maps/osm_bbox_11.3%2C47.9%2C11.7%2C48.2.xml"
+}, {
+  "path" : "root/project/wince/output/icons/desktop_icons/navit.desktop",
+  "pretty_path" : "root/project/wince/output/icons/desktop_icons/navit.desktop",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/icons/desktop_icons/navit.desktop"
+}, {
+  "path" : "root/project/wince/output/locale/af/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/af/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/af/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/ar/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/ar/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/ar/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/ast/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/ast/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/ast/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/be/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/be/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/be/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/bg/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/bg/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/bg/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/bs/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/bs/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/bs/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/ca/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/ca/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/ca/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/ckb/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/ckb/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/ckb/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/cs/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/cs/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/cs/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/cy/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/cy/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/cy/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/da/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/da/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/da/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/de/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/de/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/de/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/de_CH/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/de_CH/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/de_CH/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/el/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/el/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/el/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/en/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/en/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/en/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/en_AU/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/en_AU/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/en_AU/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/en_CA/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/en_CA/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/en_CA/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/en_GB/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/en_GB/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/en_GB/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/eo/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/eo/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/eo/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/es/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/es/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/es/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/et/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/et/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/et/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/eu/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/eu/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/eu/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/fa/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/fa/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/fa/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/fi/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/fi/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/fi/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/fil/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/fil/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/fil/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/fo/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/fo/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/fo/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/fr/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/fr/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/fr/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/fr_CH/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/fr_CH/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/fr_CH/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/fy/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/fy/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/fy/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/gl/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/gl/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/gl/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/he/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/he/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/he/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/hi/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/hi/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/hi/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/hr/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/hr/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/hr/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/hu/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/hu/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/hu/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/id/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/id/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/id/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/it/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/it/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/it/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/ja/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/ja/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/ja/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/jv/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/jv/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/jv/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/kk/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/kk/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/kk/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/kn/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/kn/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/kn/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/ko/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/ko/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/ko/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/ku/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/ku/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/ku/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/lb/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/lb/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/lb/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/lt/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/lt/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/lt/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/lv/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/lv/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/lv/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/mk/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/mk/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/mk/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/ml/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/ml/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/ml/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/mn/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/mn/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/mn/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/mr/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/mr/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/mr/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/nb/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/nb/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/nb/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/nds/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/nds/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/nds/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/nl/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/nl/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/nl/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/nn/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/nn/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/nn/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/pl/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/pl/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/pl/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/pms/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/pms/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/pms/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/pt/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/pt/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/pt/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/pt_BR/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/pt_BR/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/pt_BR/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/ro/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/ro/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/ro/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/ru/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/ru/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/ru/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/sc/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/sc/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/sc/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/si/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/si/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/si/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/sk/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/sk/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/sk/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/sl/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/sl/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/sl/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/sq/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/sq/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/sq/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/sr/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/sr/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/sr/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/sv/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/sv/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/sv/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/sw/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/sw/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/sw/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/ta/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/ta/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/ta/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/te/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/te/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/te/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/th/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/th/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/th/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/tr/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/tr/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/tr/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/uk/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/uk/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/uk/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/ur/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/ur/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/ur/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/vi/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/vi/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/vi/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/zh_CN/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/zh_CN/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/zh_CN/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/zh_HK/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/zh_HK/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/zh_HK/LC_MESSAGES/navit.mo"
+}, {
+  "path" : "root/project/wince/output/locale/zh_TW/LC_MESSAGES/navit.mo",
+  "pretty_path" : "root/project/wince/output/locale/zh_TW/LC_MESSAGES/navit.mo",
+  "node_index" : 0,
+  "url" : "https://6781-30791823-gh.circle-artifacts.com/0/root/project/wince/output/locale/zh_TW/LC_MESSAGES/navit.mo"
+} ]
