@@ -35,6 +35,9 @@
     {% if result == 'cab' %}
         <a href="{{ artifact.url }}" class="btn btn-primary mt-1">Download: {{ filename }}</a>
     {% endif %}
+    {% if result == 'rpm' %}
+        <a href="{{ artifact.url }}" class="btn btn-primary mt-1">Download: {{ filename }}</a>
+    {% endif %}
     {% if filename == 'navit.sh' or filename == 'navit.tar.gz' %}
         <a href="{{ artifact.url }}" class="btn btn-primary mt-1">Download: {{ filename }}</a>
     {% endif %}
