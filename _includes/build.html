@@ -2,7 +2,7 @@
 {% assign build_name = include.build[0]  %}
 {% assign isbuild = include.build[0] | split:'_' %}
 {% if isbuild[0] == 'build' %}
-{% assign build = include.build[1] | sort %}
+{% assign build = include.build[1] | sort_natural %}
 {% assign artifacts = build | last %}
 
 <div class="card row mt-3" id="{{ build_name | downcase }}" >
