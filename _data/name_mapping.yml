@@ -25,3 +25,7 @@ build_win32:
 build_wince:
   value: WinCE
   help_text: For all devices with WinCE on it, mostly mobile devices
+  
+build_sailfish:
+  value: Sailfish OS
+  help_text: For installation on devices with Sailfish OS
