@@ -1,0 +1,1556 @@
+[ {
+  "path" : "doc/allclasses-frame.html",
+  "pretty_path" : "doc/allclasses-frame.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/allclasses-frame.html"
+}, {
+  "path" : "doc/allclasses-noframe.html",
+  "pretty_path" : "doc/allclasses-noframe.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/allclasses-noframe.html"
+}, {
+  "path" : "doc/constant-values.html",
+  "pretty_path" : "doc/constant-values.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/constant-values.html"
+}, {
+  "path" : "doc/deprecated-list.html",
+  "pretty_path" : "doc/deprecated-list.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/deprecated-list.html"
+}, {
+  "path" : "doc/help-doc.html",
+  "pretty_path" : "doc/help-doc.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/help-doc.html"
+}, {
+  "path" : "doc/index-all.html",
+  "pretty_path" : "doc/index-all.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/index-all.html"
+}, {
+  "path" : "doc/index.html",
+  "pretty_path" : "doc/index.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/index.html"
+}, {
+  "path" : "doc/overview-frame.html",
+  "pretty_path" : "doc/overview-frame.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/overview-frame.html"
+}, {
+  "path" : "doc/overview-summary.html",
+  "pretty_path" : "doc/overview-summary.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/overview-summary.html"
+}, {
+  "path" : "doc/overview-tree.html",
+  "pretty_path" : "doc/overview-tree.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/overview-tree.html"
+}, {
+  "path" : "doc/package-list",
+  "pretty_path" : "doc/package-list",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/package-list"
+}, {
+  "path" : "doc/script.js",
+  "pretty_path" : "doc/script.js",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/script.js"
+}, {
+  "path" : "doc/stylesheet.css",
+  "pretty_path" : "doc/stylesheet.css",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/stylesheet.css"
+}, {
+  "path" : "logs/manifest-merger-debug-report.txt",
+  "pretty_path" : "logs/manifest-merger-debug-report.txt",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/logs/manifest-merger-debug-report.txt"
+}, {
+  "path" : "logs/manifest-merger-release-report.txt",
+  "pretty_path" : "logs/manifest-merger-release-report.txt",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/logs/manifest-merger-release-report.txt"
+}, {
+  "path" : "reports/checkstyleMain.html",
+  "pretty_path" : "reports/checkstyleMain.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/reports/checkstyleMain.html"
+}, {
+  "path" : "reports/checkstyleMain.xml",
+  "pretty_path" : "reports/checkstyleMain.xml",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/reports/checkstyleMain.xml"
+}, {
+  "path" : "reports/lint-results.html",
+  "pretty_path" : "reports/lint-results.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/reports/lint-results.html"
+}, {
+  "path" : "reports/lint-results.xml",
+  "pretty_path" : "reports/lint-results.xml",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/reports/lint-results.xml"
+}, {
+  "path" : "translations/af.mo",
+  "pretty_path" : "translations/af.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/af.mo"
+}, {
+  "path" : "translations/af.po",
+  "pretty_path" : "translations/af.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/af.po"
+}, {
+  "path" : "translations/af.po.in",
+  "pretty_path" : "translations/af.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/af.po.in"
+}, {
+  "path" : "translations/ar.mo",
+  "pretty_path" : "translations/ar.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ar.mo"
+}, {
+  "path" : "translations/ar.po",
+  "pretty_path" : "translations/ar.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ar.po"
+}, {
+  "path" : "translations/ar.po.in",
+  "pretty_path" : "translations/ar.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ar.po.in"
+}, {
+  "path" : "translations/ast.mo",
+  "pretty_path" : "translations/ast.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ast.mo"
+}, {
+  "path" : "translations/ast.po",
+  "pretty_path" : "translations/ast.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ast.po"
+}, {
+  "path" : "translations/ast.po.in",
+  "pretty_path" : "translations/ast.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ast.po.in"
+}, {
+  "path" : "translations/be.mo",
+  "pretty_path" : "translations/be.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/be.mo"
+}, {
+  "path" : "translations/be.po",
+  "pretty_path" : "translations/be.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/be.po"
+}, {
+  "path" : "translations/be.po.in",
+  "pretty_path" : "translations/be.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/be.po.in"
+}, {
+  "path" : "translations/bg.mo",
+  "pretty_path" : "translations/bg.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/bg.mo"
+}, {
+  "path" : "translations/bg.po",
+  "pretty_path" : "translations/bg.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/bg.po"
+}, {
+  "path" : "translations/bg.po.in",
+  "pretty_path" : "translations/bg.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/bg.po.in"
+}, {
+  "path" : "translations/bs.mo",
+  "pretty_path" : "translations/bs.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/bs.mo"
+}, {
+  "path" : "translations/bs.po",
+  "pretty_path" : "translations/bs.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/bs.po"
+}, {
+  "path" : "translations/bs.po.in",
+  "pretty_path" : "translations/bs.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/bs.po.in"
+}, {
+  "path" : "translations/ca.mo",
+  "pretty_path" : "translations/ca.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ca.mo"
+}, {
+  "path" : "translations/ca.po",
+  "pretty_path" : "translations/ca.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ca.po"
+}, {
+  "path" : "translations/ca.po.in",
+  "pretty_path" : "translations/ca.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ca.po.in"
+}, {
+  "path" : "translations/ckb.mo",
+  "pretty_path" : "translations/ckb.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ckb.mo"
+}, {
+  "path" : "translations/ckb.po",
+  "pretty_path" : "translations/ckb.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ckb.po"
+}, {
+  "path" : "translations/ckb.po.in",
+  "pretty_path" : "translations/ckb.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ckb.po.in"
+}, {
+  "path" : "translations/cmake_install.cmake",
+  "pretty_path" : "translations/cmake_install.cmake",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/cmake_install.cmake"
+}, {
+  "path" : "translations/cmakelists.txt",
+  "pretty_path" : "translations/cmakelists.txt",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/cmakelists.txt"
+}, {
+  "path" : "translations/cs.mo",
+  "pretty_path" : "translations/cs.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/cs.mo"
+}, {
+  "path" : "translations/cs.po",
+  "pretty_path" : "translations/cs.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/cs.po"
+}, {
+  "path" : "translations/cs.po.in",
+  "pretty_path" : "translations/cs.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/cs.po.in"
+}, {
+  "path" : "translations/cy.mo",
+  "pretty_path" : "translations/cy.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/cy.mo"
+}, {
+  "path" : "translations/cy.po",
+  "pretty_path" : "translations/cy.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/cy.po"
+}, {
+  "path" : "translations/cy.po.in",
+  "pretty_path" : "translations/cy.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/cy.po.in"
+}, {
+  "path" : "translations/da.mo",
+  "pretty_path" : "translations/da.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/da.mo"
+}, {
+  "path" : "translations/da.po",
+  "pretty_path" : "translations/da.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/da.po"
+}, {
+  "path" : "translations/da.po.in",
+  "pretty_path" : "translations/da.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/da.po.in"
+}, {
+  "path" : "translations/de.mo",
+  "pretty_path" : "translations/de.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/de.mo"
+}, {
+  "path" : "translations/de.po",
+  "pretty_path" : "translations/de.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/de.po"
+}, {
+  "path" : "translations/de.po.in",
+  "pretty_path" : "translations/de.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/de.po.in"
+}, {
+  "path" : "translations/de_ch.mo",
+  "pretty_path" : "translations/de_ch.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/de_ch.mo"
+}, {
+  "path" : "translations/de_ch.po",
+  "pretty_path" : "translations/de_ch.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/de_ch.po"
+}, {
+  "path" : "translations/de_ch.po.in",
+  "pretty_path" : "translations/de_ch.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/de_ch.po.in"
+}, {
+  "path" : "translations/el.mo",
+  "pretty_path" : "translations/el.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/el.mo"
+}, {
+  "path" : "translations/el.po",
+  "pretty_path" : "translations/el.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/el.po"
+}, {
+  "path" : "translations/el.po.in",
+  "pretty_path" : "translations/el.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/el.po.in"
+}, {
+  "path" : "translations/en.mo",
+  "pretty_path" : "translations/en.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/en.mo"
+}, {
+  "path" : "translations/en.po",
+  "pretty_path" : "translations/en.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/en.po"
+}, {
+  "path" : "translations/en.po.in",
+  "pretty_path" : "translations/en.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/en.po.in"
+}, {
+  "path" : "translations/en_au.mo",
+  "pretty_path" : "translations/en_au.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/en_au.mo"
+}, {
+  "path" : "translations/en_au.po",
+  "pretty_path" : "translations/en_au.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/en_au.po"
+}, {
+  "path" : "translations/en_au.po.in",
+  "pretty_path" : "translations/en_au.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/en_au.po.in"
+}, {
+  "path" : "translations/en_ca.mo",
+  "pretty_path" : "translations/en_ca.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/en_ca.mo"
+}, {
+  "path" : "translations/en_ca.po",
+  "pretty_path" : "translations/en_ca.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/en_ca.po"
+}, {
+  "path" : "translations/en_ca.po.in",
+  "pretty_path" : "translations/en_ca.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/en_ca.po.in"
+}, {
+  "path" : "translations/en_gb.mo",
+  "pretty_path" : "translations/en_gb.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/en_gb.mo"
+}, {
+  "path" : "translations/en_gb.po",
+  "pretty_path" : "translations/en_gb.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/en_gb.po"
+}, {
+  "path" : "translations/en_gb.po.in",
+  "pretty_path" : "translations/en_gb.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/en_gb.po.in"
+}, {
+  "path" : "translations/eo.mo",
+  "pretty_path" : "translations/eo.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/eo.mo"
+}, {
+  "path" : "translations/eo.po",
+  "pretty_path" : "translations/eo.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/eo.po"
+}, {
+  "path" : "translations/eo.po.in",
+  "pretty_path" : "translations/eo.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/eo.po.in"
+}, {
+  "path" : "translations/es.mo",
+  "pretty_path" : "translations/es.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/es.mo"
+}, {
+  "path" : "translations/es.po",
+  "pretty_path" : "translations/es.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/es.po"
+}, {
+  "path" : "translations/es.po.in",
+  "pretty_path" : "translations/es.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/es.po.in"
+}, {
+  "path" : "translations/et.mo",
+  "pretty_path" : "translations/et.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/et.mo"
+}, {
+  "path" : "translations/et.po",
+  "pretty_path" : "translations/et.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/et.po"
+}, {
+  "path" : "translations/et.po.in",
+  "pretty_path" : "translations/et.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/et.po.in"
+}, {
+  "path" : "translations/eu.mo",
+  "pretty_path" : "translations/eu.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/eu.mo"
+}, {
+  "path" : "translations/eu.po",
+  "pretty_path" : "translations/eu.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/eu.po"
+}, {
+  "path" : "translations/eu.po.in",
+  "pretty_path" : "translations/eu.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/eu.po.in"
+}, {
+  "path" : "translations/fa.mo",
+  "pretty_path" : "translations/fa.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fa.mo"
+}, {
+  "path" : "translations/fa.po",
+  "pretty_path" : "translations/fa.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fa.po"
+}, {
+  "path" : "translations/fa.po.in",
+  "pretty_path" : "translations/fa.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fa.po.in"
+}, {
+  "path" : "translations/fi.mo",
+  "pretty_path" : "translations/fi.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fi.mo"
+}, {
+  "path" : "translations/fi.po",
+  "pretty_path" : "translations/fi.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fi.po"
+}, {
+  "path" : "translations/fi.po.in",
+  "pretty_path" : "translations/fi.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fi.po.in"
+}, {
+  "path" : "translations/fil.mo",
+  "pretty_path" : "translations/fil.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fil.mo"
+}, {
+  "path" : "translations/fil.po",
+  "pretty_path" : "translations/fil.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fil.po"
+}, {
+  "path" : "translations/fil.po.in",
+  "pretty_path" : "translations/fil.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fil.po.in"
+}, {
+  "path" : "translations/fo.mo",
+  "pretty_path" : "translations/fo.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fo.mo"
+}, {
+  "path" : "translations/fo.po",
+  "pretty_path" : "translations/fo.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fo.po"
+}, {
+  "path" : "translations/fo.po.in",
+  "pretty_path" : "translations/fo.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fo.po.in"
+}, {
+  "path" : "translations/fr.mo",
+  "pretty_path" : "translations/fr.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fr.mo"
+}, {
+  "path" : "translations/fr.po",
+  "pretty_path" : "translations/fr.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fr.po"
+}, {
+  "path" : "translations/fr.po.in",
+  "pretty_path" : "translations/fr.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fr.po.in"
+}, {
+  "path" : "translations/fr_ch.mo",
+  "pretty_path" : "translations/fr_ch.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fr_ch.mo"
+}, {
+  "path" : "translations/fr_ch.po",
+  "pretty_path" : "translations/fr_ch.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fr_ch.po"
+}, {
+  "path" : "translations/fr_ch.po.in",
+  "pretty_path" : "translations/fr_ch.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fr_ch.po.in"
+}, {
+  "path" : "translations/fy.mo",
+  "pretty_path" : "translations/fy.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fy.mo"
+}, {
+  "path" : "translations/fy.po",
+  "pretty_path" : "translations/fy.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fy.po"
+}, {
+  "path" : "translations/fy.po.in",
+  "pretty_path" : "translations/fy.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/fy.po.in"
+}, {
+  "path" : "translations/gl.mo",
+  "pretty_path" : "translations/gl.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/gl.mo"
+}, {
+  "path" : "translations/gl.po",
+  "pretty_path" : "translations/gl.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/gl.po"
+}, {
+  "path" : "translations/gl.po.in",
+  "pretty_path" : "translations/gl.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/gl.po.in"
+}, {
+  "path" : "translations/he.mo",
+  "pretty_path" : "translations/he.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/he.mo"
+}, {
+  "path" : "translations/he.po",
+  "pretty_path" : "translations/he.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/he.po"
+}, {
+  "path" : "translations/he.po.in",
+  "pretty_path" : "translations/he.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/he.po.in"
+}, {
+  "path" : "translations/hi.mo",
+  "pretty_path" : "translations/hi.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/hi.mo"
+}, {
+  "path" : "translations/hi.po",
+  "pretty_path" : "translations/hi.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/hi.po"
+}, {
+  "path" : "translations/hi.po.in",
+  "pretty_path" : "translations/hi.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/hi.po.in"
+}, {
+  "path" : "translations/hr.mo",
+  "pretty_path" : "translations/hr.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/hr.mo"
+}, {
+  "path" : "translations/hr.po",
+  "pretty_path" : "translations/hr.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/hr.po"
+}, {
+  "path" : "translations/hr.po.in",
+  "pretty_path" : "translations/hr.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/hr.po.in"
+}, {
+  "path" : "translations/hu.mo",
+  "pretty_path" : "translations/hu.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/hu.mo"
+}, {
+  "path" : "translations/hu.po",
+  "pretty_path" : "translations/hu.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/hu.po"
+}, {
+  "path" : "translations/hu.po.in",
+  "pretty_path" : "translations/hu.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/hu.po.in"
+}, {
+  "path" : "translations/id.mo",
+  "pretty_path" : "translations/id.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/id.mo"
+}, {
+  "path" : "translations/id.po",
+  "pretty_path" : "translations/id.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/id.po"
+}, {
+  "path" : "translations/id.po.in",
+  "pretty_path" : "translations/id.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/id.po.in"
+}, {
+  "path" : "translations/it.mo",
+  "pretty_path" : "translations/it.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/it.mo"
+}, {
+  "path" : "translations/it.po",
+  "pretty_path" : "translations/it.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/it.po"
+}, {
+  "path" : "translations/it.po.in",
+  "pretty_path" : "translations/it.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/it.po.in"
+}, {
+  "path" : "translations/ja.mo",
+  "pretty_path" : "translations/ja.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ja.mo"
+}, {
+  "path" : "translations/ja.po",
+  "pretty_path" : "translations/ja.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ja.po"
+}, {
+  "path" : "translations/ja.po.in",
+  "pretty_path" : "translations/ja.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ja.po.in"
+}, {
+  "path" : "translations/jv.mo",
+  "pretty_path" : "translations/jv.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/jv.mo"
+}, {
+  "path" : "translations/jv.po",
+  "pretty_path" : "translations/jv.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/jv.po"
+}, {
+  "path" : "translations/jv.po.in",
+  "pretty_path" : "translations/jv.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/jv.po.in"
+}, {
+  "path" : "translations/kk.mo",
+  "pretty_path" : "translations/kk.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/kk.mo"
+}, {
+  "path" : "translations/kk.po",
+  "pretty_path" : "translations/kk.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/kk.po"
+}, {
+  "path" : "translations/kk.po.in",
+  "pretty_path" : "translations/kk.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/kk.po.in"
+}, {
+  "path" : "translations/kn.mo",
+  "pretty_path" : "translations/kn.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/kn.mo"
+}, {
+  "path" : "translations/kn.po",
+  "pretty_path" : "translations/kn.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/kn.po"
+}, {
+  "path" : "translations/kn.po.in",
+  "pretty_path" : "translations/kn.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/kn.po.in"
+}, {
+  "path" : "translations/ko.mo",
+  "pretty_path" : "translations/ko.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ko.mo"
+}, {
+  "path" : "translations/ko.po",
+  "pretty_path" : "translations/ko.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ko.po"
+}, {
+  "path" : "translations/ko.po.in",
+  "pretty_path" : "translations/ko.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ko.po.in"
+}, {
+  "path" : "translations/ku.mo",
+  "pretty_path" : "translations/ku.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ku.mo"
+}, {
+  "path" : "translations/ku.po",
+  "pretty_path" : "translations/ku.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ku.po"
+}, {
+  "path" : "translations/ku.po.in",
+  "pretty_path" : "translations/ku.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ku.po.in"
+}, {
+  "path" : "translations/lb.mo",
+  "pretty_path" : "translations/lb.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/lb.mo"
+}, {
+  "path" : "translations/lb.po",
+  "pretty_path" : "translations/lb.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/lb.po"
+}, {
+  "path" : "translations/lb.po.in",
+  "pretty_path" : "translations/lb.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/lb.po.in"
+}, {
+  "path" : "translations/lt.mo",
+  "pretty_path" : "translations/lt.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/lt.mo"
+}, {
+  "path" : "translations/lt.po",
+  "pretty_path" : "translations/lt.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/lt.po"
+}, {
+  "path" : "translations/lt.po.in",
+  "pretty_path" : "translations/lt.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/lt.po.in"
+}, {
+  "path" : "translations/lv.mo",
+  "pretty_path" : "translations/lv.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/lv.mo"
+}, {
+  "path" : "translations/lv.po",
+  "pretty_path" : "translations/lv.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/lv.po"
+}, {
+  "path" : "translations/lv.po.in",
+  "pretty_path" : "translations/lv.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/lv.po.in"
+}, {
+  "path" : "translations/makefile",
+  "pretty_path" : "translations/makefile",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/makefile"
+}, {
+  "path" : "translations/mk.mo",
+  "pretty_path" : "translations/mk.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/mk.mo"
+}, {
+  "path" : "translations/mk.po",
+  "pretty_path" : "translations/mk.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/mk.po"
+}, {
+  "path" : "translations/mk.po.in",
+  "pretty_path" : "translations/mk.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/mk.po.in"
+}, {
+  "path" : "translations/ml.mo",
+  "pretty_path" : "translations/ml.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ml.mo"
+}, {
+  "path" : "translations/ml.po",
+  "pretty_path" : "translations/ml.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ml.po"
+}, {
+  "path" : "translations/ml.po.in",
+  "pretty_path" : "translations/ml.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ml.po.in"
+}, {
+  "path" : "translations/mn.mo",
+  "pretty_path" : "translations/mn.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/mn.mo"
+}, {
+  "path" : "translations/mn.po",
+  "pretty_path" : "translations/mn.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/mn.po"
+}, {
+  "path" : "translations/mn.po.in",
+  "pretty_path" : "translations/mn.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/mn.po.in"
+}, {
+  "path" : "translations/mr.mo",
+  "pretty_path" : "translations/mr.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/mr.mo"
+}, {
+  "path" : "translations/mr.po",
+  "pretty_path" : "translations/mr.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/mr.po"
+}, {
+  "path" : "translations/mr.po.in",
+  "pretty_path" : "translations/mr.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/mr.po.in"
+}, {
+  "path" : "translations/navit.pot",
+  "pretty_path" : "translations/navit.pot",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/navit.pot"
+}, {
+  "path" : "translations/navit_shipped.c",
+  "pretty_path" : "translations/navit_shipped.c",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/navit_shipped.c"
+}, {
+  "path" : "translations/navit_tmp.po",
+  "pretty_path" : "translations/navit_tmp.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/navit_tmp.po"
+}, {
+  "path" : "translations/nb.mo",
+  "pretty_path" : "translations/nb.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/nb.mo"
+}, {
+  "path" : "translations/nb.po",
+  "pretty_path" : "translations/nb.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/nb.po"
+}, {
+  "path" : "translations/nb.po.in",
+  "pretty_path" : "translations/nb.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/nb.po.in"
+}, {
+  "path" : "translations/nds.mo",
+  "pretty_path" : "translations/nds.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/nds.mo"
+}, {
+  "path" : "translations/nds.po",
+  "pretty_path" : "translations/nds.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/nds.po"
+}, {
+  "path" : "translations/nds.po.in",
+  "pretty_path" : "translations/nds.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/nds.po.in"
+}, {
+  "path" : "translations/nl.mo",
+  "pretty_path" : "translations/nl.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/nl.mo"
+}, {
+  "path" : "translations/nl.po",
+  "pretty_path" : "translations/nl.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/nl.po"
+}, {
+  "path" : "translations/nl.po.in",
+  "pretty_path" : "translations/nl.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/nl.po.in"
+}, {
+  "path" : "translations/nn.mo",
+  "pretty_path" : "translations/nn.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/nn.mo"
+}, {
+  "path" : "translations/nn.po",
+  "pretty_path" : "translations/nn.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/nn.po"
+}, {
+  "path" : "translations/nn.po.in",
+  "pretty_path" : "translations/nn.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/nn.po.in"
+}, {
+  "path" : "translations/pl.mo",
+  "pretty_path" : "translations/pl.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/pl.mo"
+}, {
+  "path" : "translations/pl.po",
+  "pretty_path" : "translations/pl.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/pl.po"
+}, {
+  "path" : "translations/pl.po.in",
+  "pretty_path" : "translations/pl.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/pl.po.in"
+}, {
+  "path" : "translations/pms.mo",
+  "pretty_path" : "translations/pms.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/pms.mo"
+}, {
+  "path" : "translations/pms.po",
+  "pretty_path" : "translations/pms.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/pms.po"
+}, {
+  "path" : "translations/pms.po.in",
+  "pretty_path" : "translations/pms.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/pms.po.in"
+}, {
+  "path" : "translations/pt.mo",
+  "pretty_path" : "translations/pt.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/pt.mo"
+}, {
+  "path" : "translations/pt.po",
+  "pretty_path" : "translations/pt.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/pt.po"
+}, {
+  "path" : "translations/pt.po.in",
+  "pretty_path" : "translations/pt.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/pt.po.in"
+}, {
+  "path" : "translations/pt_br.mo",
+  "pretty_path" : "translations/pt_br.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/pt_br.mo"
+}, {
+  "path" : "translations/pt_br.po",
+  "pretty_path" : "translations/pt_br.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/pt_br.po"
+}, {
+  "path" : "translations/pt_br.po.in",
+  "pretty_path" : "translations/pt_br.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/pt_br.po.in"
+}, {
+  "path" : "translations/ro.mo",
+  "pretty_path" : "translations/ro.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ro.mo"
+}, {
+  "path" : "translations/ro.po",
+  "pretty_path" : "translations/ro.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ro.po"
+}, {
+  "path" : "translations/ro.po.in",
+  "pretty_path" : "translations/ro.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ro.po.in"
+}, {
+  "path" : "translations/ru.mo",
+  "pretty_path" : "translations/ru.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ru.mo"
+}, {
+  "path" : "translations/ru.po",
+  "pretty_path" : "translations/ru.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ru.po"
+}, {
+  "path" : "translations/ru.po.in",
+  "pretty_path" : "translations/ru.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ru.po.in"
+}, {
+  "path" : "translations/sc.mo",
+  "pretty_path" : "translations/sc.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sc.mo"
+}, {
+  "path" : "translations/sc.po",
+  "pretty_path" : "translations/sc.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sc.po"
+}, {
+  "path" : "translations/sc.po.in",
+  "pretty_path" : "translations/sc.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sc.po.in"
+}, {
+  "path" : "translations/si.mo",
+  "pretty_path" : "translations/si.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/si.mo"
+}, {
+  "path" : "translations/si.po",
+  "pretty_path" : "translations/si.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/si.po"
+}, {
+  "path" : "translations/si.po.in",
+  "pretty_path" : "translations/si.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/si.po.in"
+}, {
+  "path" : "translations/sk.mo",
+  "pretty_path" : "translations/sk.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sk.mo"
+}, {
+  "path" : "translations/sk.po",
+  "pretty_path" : "translations/sk.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sk.po"
+}, {
+  "path" : "translations/sk.po.in",
+  "pretty_path" : "translations/sk.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sk.po.in"
+}, {
+  "path" : "translations/sl.mo",
+  "pretty_path" : "translations/sl.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sl.mo"
+}, {
+  "path" : "translations/sl.po",
+  "pretty_path" : "translations/sl.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sl.po"
+}, {
+  "path" : "translations/sl.po.in",
+  "pretty_path" : "translations/sl.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sl.po.in"
+}, {
+  "path" : "translations/sq.mo",
+  "pretty_path" : "translations/sq.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sq.mo"
+}, {
+  "path" : "translations/sq.po",
+  "pretty_path" : "translations/sq.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sq.po"
+}, {
+  "path" : "translations/sq.po.in",
+  "pretty_path" : "translations/sq.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sq.po.in"
+}, {
+  "path" : "translations/sr.mo",
+  "pretty_path" : "translations/sr.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sr.mo"
+}, {
+  "path" : "translations/sr.po",
+  "pretty_path" : "translations/sr.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sr.po"
+}, {
+  "path" : "translations/sr.po.in",
+  "pretty_path" : "translations/sr.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sr.po.in"
+}, {
+  "path" : "translations/strings_xml.c",
+  "pretty_path" : "translations/strings_xml.c",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/strings_xml.c"
+}, {
+  "path" : "translations/sv.mo",
+  "pretty_path" : "translations/sv.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sv.mo"
+}, {
+  "path" : "translations/sv.po",
+  "pretty_path" : "translations/sv.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sv.po"
+}, {
+  "path" : "translations/sv.po.in",
+  "pretty_path" : "translations/sv.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sv.po.in"
+}, {
+  "path" : "translations/sw.mo",
+  "pretty_path" : "translations/sw.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sw.mo"
+}, {
+  "path" : "translations/sw.po",
+  "pretty_path" : "translations/sw.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sw.po"
+}, {
+  "path" : "translations/sw.po.in",
+  "pretty_path" : "translations/sw.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/sw.po.in"
+}, {
+  "path" : "translations/ta.mo",
+  "pretty_path" : "translations/ta.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ta.mo"
+}, {
+  "path" : "translations/ta.po",
+  "pretty_path" : "translations/ta.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ta.po"
+}, {
+  "path" : "translations/ta.po.in",
+  "pretty_path" : "translations/ta.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ta.po.in"
+}, {
+  "path" : "translations/te.mo",
+  "pretty_path" : "translations/te.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/te.mo"
+}, {
+  "path" : "translations/te.po",
+  "pretty_path" : "translations/te.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/te.po"
+}, {
+  "path" : "translations/te.po.in",
+  "pretty_path" : "translations/te.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/te.po.in"
+}, {
+  "path" : "translations/th.mo",
+  "pretty_path" : "translations/th.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/th.mo"
+}, {
+  "path" : "translations/th.po",
+  "pretty_path" : "translations/th.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/th.po"
+}, {
+  "path" : "translations/th.po.in",
+  "pretty_path" : "translations/th.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/th.po.in"
+}, {
+  "path" : "translations/tr.mo",
+  "pretty_path" : "translations/tr.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/tr.mo"
+}, {
+  "path" : "translations/tr.po",
+  "pretty_path" : "translations/tr.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/tr.po"
+}, {
+  "path" : "translations/tr.po.in",
+  "pretty_path" : "translations/tr.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/tr.po.in"
+}, {
+  "path" : "translations/uk.mo",
+  "pretty_path" : "translations/uk.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/uk.mo"
+}, {
+  "path" : "translations/uk.po",
+  "pretty_path" : "translations/uk.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/uk.po"
+}, {
+  "path" : "translations/uk.po.in",
+  "pretty_path" : "translations/uk.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/uk.po.in"
+}, {
+  "path" : "translations/ur.mo",
+  "pretty_path" : "translations/ur.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ur.mo"
+}, {
+  "path" : "translations/ur.po",
+  "pretty_path" : "translations/ur.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ur.po"
+}, {
+  "path" : "translations/ur.po.in",
+  "pretty_path" : "translations/ur.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/ur.po.in"
+}, {
+  "path" : "translations/vi.mo",
+  "pretty_path" : "translations/vi.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/vi.mo"
+}, {
+  "path" : "translations/vi.po",
+  "pretty_path" : "translations/vi.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/vi.po"
+}, {
+  "path" : "translations/vi.po.in",
+  "pretty_path" : "translations/vi.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/vi.po.in"
+}, {
+  "path" : "translations/zh_cn.mo",
+  "pretty_path" : "translations/zh_cn.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/zh_cn.mo"
+}, {
+  "path" : "translations/zh_cn.po",
+  "pretty_path" : "translations/zh_cn.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/zh_cn.po"
+}, {
+  "path" : "translations/zh_cn.po.in",
+  "pretty_path" : "translations/zh_cn.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/zh_cn.po.in"
+}, {
+  "path" : "translations/zh_hk.mo",
+  "pretty_path" : "translations/zh_hk.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/zh_hk.mo"
+}, {
+  "path" : "translations/zh_hk.po",
+  "pretty_path" : "translations/zh_hk.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/zh_hk.po"
+}, {
+  "path" : "translations/zh_hk.po.in",
+  "pretty_path" : "translations/zh_hk.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/zh_hk.po.in"
+}, {
+  "path" : "translations/zh_tw.mo",
+  "pretty_path" : "translations/zh_tw.mo",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/zh_tw.mo"
+}, {
+  "path" : "translations/zh_tw.po",
+  "pretty_path" : "translations/zh_tw.po",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/zh_tw.po"
+}, {
+  "path" : "translations/zh_tw.po.in",
+  "pretty_path" : "translations/zh_tw.po.in",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/zh_tw.po.in"
+}, {
+  "path" : "apk/debug/android-debug.apk",
+  "pretty_path" : "apk/debug/android-debug.apk",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/apk/debug/android-debug.apk"
+}, {
+  "path" : "apk/debug/output.json",
+  "pretty_path" : "apk/debug/output.json",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/apk/debug/output.json"
+}, {
+  "path" : "translations/cmakefiles/CMakeDirectoryInformation.cmake",
+  "pretty_path" : "translations/cmakefiles/CMakeDirectoryInformation.cmake",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/cmakefiles/CMakeDirectoryInformation.cmake"
+}, {
+  "path" : "translations/cmakefiles/progress.marks",
+  "pretty_path" : "translations/cmakefiles/progress.marks",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/cmakefiles/progress.marks"
+}, {
+  "path" : "translations/cmakefiles/locales.dir/DependInfo.cmake",
+  "pretty_path" : "translations/cmakefiles/locales.dir/DependInfo.cmake",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/cmakefiles/locales.dir/DependInfo.cmake"
+}, {
+  "path" : "translations/cmakefiles/locales.dir/build.make",
+  "pretty_path" : "translations/cmakefiles/locales.dir/build.make",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/cmakefiles/locales.dir/build.make"
+}, {
+  "path" : "translations/cmakefiles/locales.dir/cmake_clean.cmake",
+  "pretty_path" : "translations/cmakefiles/locales.dir/cmake_clean.cmake",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/cmakefiles/locales.dir/cmake_clean.cmake"
+}, {
+  "path" : "translations/cmakefiles/locales.dir/depend.internal",
+  "pretty_path" : "translations/cmakefiles/locales.dir/depend.internal",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/cmakefiles/locales.dir/depend.internal"
+}, {
+  "path" : "translations/cmakefiles/locales.dir/depend.make",
+  "pretty_path" : "translations/cmakefiles/locales.dir/depend.make",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/cmakefiles/locales.dir/depend.make"
+}, {
+  "path" : "translations/cmakefiles/locales.dir/progress.make",
+  "pretty_path" : "translations/cmakefiles/locales.dir/progress.make",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/translations/cmakefiles/locales.dir/progress.make"
+}, {
+  "path" : "doc/android/support/v4/R.html",
+  "pretty_path" : "doc/android/support/v4/R.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/android/support/v4/R.html"
+}, {
+  "path" : "doc/android/support/v4/package-frame.html",
+  "pretty_path" : "doc/android/support/v4/package-frame.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/android/support/v4/package-frame.html"
+}, {
+  "path" : "doc/android/support/v4/package-summary.html",
+  "pretty_path" : "doc/android/support/v4/package-summary.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/android/support/v4/package-summary.html"
+}, {
+  "path" : "doc/android/support/v4/package-tree.html",
+  "pretty_path" : "doc/android/support/v4/package-tree.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/android/support/v4/package-tree.html"
+}, {
+  "path" : "doc/ch/acra/acra/R.html",
+  "pretty_path" : "doc/ch/acra/acra/R.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/ch/acra/acra/R.html"
+}, {
+  "path" : "doc/ch/acra/acra/R.string.html",
+  "pretty_path" : "doc/ch/acra/acra/R.string.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/ch/acra/acra/R.string.html"
+}, {
+  "path" : "doc/ch/acra/acra/package-frame.html",
+  "pretty_path" : "doc/ch/acra/acra/package-frame.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/ch/acra/acra/package-frame.html"
+}, {
+  "path" : "doc/ch/acra/acra/package-summary.html",
+  "pretty_path" : "doc/ch/acra/acra/package-summary.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/ch/acra/acra/package-summary.html"
+}, {
+  "path" : "doc/ch/acra/acra/package-tree.html",
+  "pretty_path" : "doc/ch/acra/acra/package-tree.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/ch/acra/acra/package-tree.html"
+}, {
+  "path" : "doc/org/navitproject/navit/BuildConfig.html",
+  "pretty_path" : "doc/org/navitproject/navit/BuildConfig.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/BuildConfig.html"
+}, {
+  "path" : "doc/org/navitproject/navit/FileBrowserActivity.html",
+  "pretty_path" : "doc/org/navitproject/navit/FileBrowserActivity.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/FileBrowserActivity.html"
+}, {
+  "path" : "doc/org/navitproject/navit/Navit.html",
+  "pretty_path" : "doc/org/navitproject/navit/Navit.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/Navit.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitActivityResult.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitActivityResult.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitActivityResult.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitAddressSearchActivity.NavitAddress.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitAddressSearchActivity.NavitAddress.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitAddressSearchActivity.NavitAddress.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitAddressSearchActivity.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitAddressSearchActivity.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitAddressSearchActivity.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitAppConfig.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitAppConfig.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitAppConfig.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitBackupTask.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitBackupTask.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitBackupTask.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitCamera.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitCamera.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitCamera.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitDialogs.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitDialogs.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitDialogs.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitDownloadSelectMapActivity.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitDownloadSelectMapActivity.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitDownloadSelectMapActivity.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitGraphics.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitGraphics.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitGraphics.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitGraphics.msg_type.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitGraphics.msg_type.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitGraphics.msg_type.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitMap.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitMap.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitMap.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitMapDownloader.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitMapDownloader.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitMapDownloader.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitMapDownloader.osm_map_values.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitMapDownloader.osm_map_values.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitMapDownloader.osm_map_values.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitRestoreTask.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitRestoreTask.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitRestoreTask.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitSensors.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitSensors.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitSensors.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitSpeech2.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitSpeech2.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitSpeech2.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitTimeout.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitTimeout.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitTimeout.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitTraff.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitTraff.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitTraff.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitVehicle.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitVehicle.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitVehicle.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitWatch.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitWatch.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitWatch.html"
+}, {
+  "path" : "doc/org/navitproject/navit/R.array.html",
+  "pretty_path" : "doc/org/navitproject/navit/R.array.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/R.array.html"
+}, {
+  "path" : "doc/org/navitproject/navit/R.color.html",
+  "pretty_path" : "doc/org/navitproject/navit/R.color.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/R.color.html"
+}, {
+  "path" : "doc/org/navitproject/navit/R.drawable.html",
+  "pretty_path" : "doc/org/navitproject/navit/R.drawable.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/R.drawable.html"
+}, {
+  "path" : "doc/org/navitproject/navit/R.html",
+  "pretty_path" : "doc/org/navitproject/navit/R.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/R.html"
+}, {
+  "path" : "doc/org/navitproject/navit/R.id.html",
+  "pretty_path" : "doc/org/navitproject/navit/R.id.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/R.id.html"
+}, {
+  "path" : "doc/org/navitproject/navit/R.layout.html",
+  "pretty_path" : "doc/org/navitproject/navit/R.layout.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/R.layout.html"
+}, {
+  "path" : "doc/org/navitproject/navit/R.raw.html",
+  "pretty_path" : "doc/org/navitproject/navit/R.raw.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/R.raw.html"
+}, {
+  "path" : "doc/org/navitproject/navit/R.string.html",
+  "pretty_path" : "doc/org/navitproject/navit/R.string.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/R.string.html"
+}, {
+  "path" : "doc/org/navitproject/navit/R.style.html",
+  "pretty_path" : "doc/org/navitproject/navit/R.style.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/R.style.html"
+}, {
+  "path" : "doc/org/navitproject/navit/package-frame.html",
+  "pretty_path" : "doc/org/navitproject/navit/package-frame.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/package-frame.html"
+}, {
+  "path" : "doc/org/navitproject/navit/package-summary.html",
+  "pretty_path" : "doc/org/navitproject/navit/package-summary.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/package-summary.html"
+}, {
+  "path" : "doc/org/navitproject/navit/package-tree.html",
+  "pretty_path" : "doc/org/navitproject/navit/package-tree.html",
+  "node_index" : 0,
+  "url" : "https://12150-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/package-tree.html"
+} ]
