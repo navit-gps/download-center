@@ -1,6 +1,6 @@
-build_android_x86:
-  value: Android x86
-  help_text: For installation on android Systems with x86 arch like pc based systems or RemixOS
+build_android:
+  value: Android
+  help_text: For installation on all android Systems (x86 and arm)
 
 build_tomtom_plugin:
   value: TomTom Plugin
@@ -9,10 +9,6 @@ build_tomtom_plugin:
 build_tomtom_minimal:
   value: TomTom Minimal
   help_text: For installation on TomTom devices with 
-
-build_android_arm:
-  value: Android ARM
-  help_text: For installation on Android Smartphones of tablets
   
 build_linux:
   value: Linux

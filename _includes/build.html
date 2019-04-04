@@ -1,6 +1,7 @@
 <!-- Start -->
 {% assign build_name = include.build[0]  %}
 {% assign isbuild = include.build[0] | split:'_' %}
+{% if build_name != 'build_android_arm' and build_name != 'build_android_x86' %}
 {% if isbuild[0] == 'build' %}
 {% assign build = include.build[1] | sort %}
 {% assign artifacts = build | last %}
@@ -42,6 +43,7 @@
         <a href="{{ artifact.url }}" class="btn btn-primary mt-1">Download: {{ filename }}</a>
     {% endif %}
 {% endfor %}
+{% endif %}
 {% endif %}
 <!-- Stop -->
   </div>
