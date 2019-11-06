@@ -1,0 +1,241 @@
+[ {
+  "path" : "doc/allclasses-frame.html",
+  "pretty_path" : "doc/allclasses-frame.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/allclasses-frame.html"
+}, {
+  "path" : "doc/allclasses-noframe.html",
+  "pretty_path" : "doc/allclasses-noframe.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/allclasses-noframe.html"
+}, {
+  "path" : "doc/constant-values.html",
+  "pretty_path" : "doc/constant-values.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/constant-values.html"
+}, {
+  "path" : "doc/deprecated-list.html",
+  "pretty_path" : "doc/deprecated-list.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/deprecated-list.html"
+}, {
+  "path" : "doc/help-doc.html",
+  "pretty_path" : "doc/help-doc.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/help-doc.html"
+}, {
+  "path" : "doc/index-all.html",
+  "pretty_path" : "doc/index-all.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/index-all.html"
+}, {
+  "path" : "doc/index.html",
+  "pretty_path" : "doc/index.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/index.html"
+}, {
+  "path" : "doc/overview-tree.html",
+  "pretty_path" : "doc/overview-tree.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/overview-tree.html"
+}, {
+  "path" : "doc/package-list",
+  "pretty_path" : "doc/package-list",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/package-list"
+}, {
+  "path" : "doc/script.js",
+  "pretty_path" : "doc/script.js",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/script.js"
+}, {
+  "path" : "doc/stylesheet.css",
+  "pretty_path" : "doc/stylesheet.css",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/stylesheet.css"
+}, {
+  "path" : "logs/manifest-merger-debug-report.txt",
+  "pretty_path" : "logs/manifest-merger-debug-report.txt",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/logs/manifest-merger-debug-report.txt"
+}, {
+  "path" : "logs/manifest-merger-release-report.txt",
+  "pretty_path" : "logs/manifest-merger-release-report.txt",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/logs/manifest-merger-release-report.txt"
+}, {
+  "path" : "reports/lint-results.html",
+  "pretty_path" : "reports/lint-results.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/reports/lint-results.html"
+}, {
+  "path" : "reports/lint-results.xml",
+  "pretty_path" : "reports/lint-results.xml",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/reports/lint-results.xml"
+}, {
+  "path" : "apk/debug/android-debug.apk",
+  "pretty_path" : "apk/debug/android-debug.apk",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/apk/debug/android-debug.apk"
+}, {
+  "path" : "apk/debug/output.json",
+  "pretty_path" : "apk/debug/output.json",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/apk/debug/output.json"
+}, {
+  "path" : "doc/org/navitproject/navit/FileBrowserActivity.html",
+  "pretty_path" : "doc/org/navitproject/navit/FileBrowserActivity.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/FileBrowserActivity.html"
+}, {
+  "path" : "doc/org/navitproject/navit/Navit.html",
+  "pretty_path" : "doc/org/navitproject/navit/Navit.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/Navit.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitActivityResult.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitActivityResult.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitActivityResult.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitAddressSearchActivity.NavitAddress.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitAddressSearchActivity.NavitAddress.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitAddressSearchActivity.NavitAddress.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitAddressSearchActivity.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitAddressSearchActivity.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitAddressSearchActivity.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitAppConfig.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitAppConfig.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitAppConfig.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitBackupTask.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitBackupTask.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitBackupTask.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitCallbackHandler.CallBackHandler.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitCallbackHandler.CallBackHandler.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitCallbackHandler.CallBackHandler.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitCallbackHandler.CmdType.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitCallbackHandler.CmdType.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitCallbackHandler.CmdType.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitCallbackHandler.MsgType.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitCallbackHandler.MsgType.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitCallbackHandler.MsgType.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitCallbackHandler.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitCallbackHandler.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitCallbackHandler.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitCamera.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitCamera.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitCamera.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitDialogs.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitDialogs.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitDialogs.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitDownloadSelectMapActivity.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitDownloadSelectMapActivity.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitDownloadSelectMapActivity.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitGraphics.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitGraphics.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitGraphics.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitMap.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitMap.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitMap.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitMapDownloader.OsmMapValues.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitMapDownloader.OsmMapValues.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitMapDownloader.OsmMapValues.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitMapDownloader.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitMapDownloader.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitMapDownloader.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitRestoreTask.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitRestoreTask.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitRestoreTask.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitSensors.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitSensors.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitSensors.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitSpeech2.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitSpeech2.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitSpeech2.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitTimeout.TimeoutHandler.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitTimeout.TimeoutHandler.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitTimeout.TimeoutHandler.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitTimeout.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitTimeout.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitTimeout.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitTraff.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitTraff.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitTraff.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitUtils.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitUtils.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitUtils.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitVehicle.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitVehicle.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitVehicle.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitWatch.WatchHandler.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitWatch.WatchHandler.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitWatch.WatchHandler.html"
+}, {
+  "path" : "doc/org/navitproject/navit/NavitWatch.html",
+  "pretty_path" : "doc/org/navitproject/navit/NavitWatch.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/NavitWatch.html"
+}, {
+  "path" : "doc/org/navitproject/navit/package-frame.html",
+  "pretty_path" : "doc/org/navitproject/navit/package-frame.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/package-frame.html"
+}, {
+  "path" : "doc/org/navitproject/navit/package-summary.html",
+  "pretty_path" : "doc/org/navitproject/navit/package-summary.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/package-summary.html"
+}, {
+  "path" : "doc/org/navitproject/navit/package-tree.html",
+  "pretty_path" : "doc/org/navitproject/navit/package-tree.html",
+  "node_index" : 0,
+  "url" : "https://19119-30791823-gh.circle-artifacts.com/0/doc/org/navitproject/navit/package-tree.html"
+} ]
