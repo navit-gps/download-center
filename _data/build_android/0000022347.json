@@ -1,0 +1,51 @@
+[ {
+  "path" : "logs/manifest-merger-debug-report.txt",
+  "pretty_path" : "logs/manifest-merger-debug-report.txt",
+  "node_index" : 0,
+  "url" : "https://22347-30791823-gh.circle-artifacts.com/0/logs/manifest-merger-debug-report.txt"
+}, {
+  "path" : "logs/manifest-merger-release-report.txt",
+  "pretty_path" : "logs/manifest-merger-release-report.txt",
+  "node_index" : 0,
+  "url" : "https://22347-30791823-gh.circle-artifacts.com/0/logs/manifest-merger-release-report.txt"
+}, {
+  "path" : "reports/lint-results-release-fatal.html",
+  "pretty_path" : "reports/lint-results-release-fatal.html",
+  "node_index" : 0,
+  "url" : "https://22347-30791823-gh.circle-artifacts.com/0/reports/lint-results-release-fatal.html"
+}, {
+  "path" : "reports/lint-results-release-fatal.xml",
+  "pretty_path" : "reports/lint-results-release-fatal.xml",
+  "node_index" : 0,
+  "url" : "https://22347-30791823-gh.circle-artifacts.com/0/reports/lint-results-release-fatal.xml"
+}, {
+  "path" : "reports/lint-results.html",
+  "pretty_path" : "reports/lint-results.html",
+  "node_index" : 0,
+  "url" : "https://22347-30791823-gh.circle-artifacts.com/0/reports/lint-results.html"
+}, {
+  "path" : "reports/lint-results.xml",
+  "pretty_path" : "reports/lint-results.xml",
+  "node_index" : 0,
+  "url" : "https://22347-30791823-gh.circle-artifacts.com/0/reports/lint-results.xml"
+}, {
+  "path" : "apk/debug/android-debug.apk",
+  "pretty_path" : "apk/debug/android-debug.apk",
+  "node_index" : 0,
+  "url" : "https://22347-30791823-gh.circle-artifacts.com/0/apk/debug/android-debug.apk"
+}, {
+  "path" : "apk/debug/output.json",
+  "pretty_path" : "apk/debug/output.json",
+  "node_index" : 0,
+  "url" : "https://22347-30791823-gh.circle-artifacts.com/0/apk/debug/output.json"
+}, {
+  "path" : "apk/release/android-release.apk",
+  "pretty_path" : "apk/release/android-release.apk",
+  "node_index" : 0,
+  "url" : "https://22347-30791823-gh.circle-artifacts.com/0/apk/release/android-release.apk"
+}, {
+  "path" : "apk/release/output.json",
+  "pretty_path" : "apk/release/output.json",
+  "node_index" : 0,
+  "url" : "https://22347-30791823-gh.circle-artifacts.com/0/apk/release/output.json"
+} ]
