@@ -1,0 +1,51 @@
+[ {
+  "path" : "logs/manifest-merger-debug-report.txt",
+  "url" : "https://output.circle-artifacts.com/output/job/564208e7-9b3e-47c5-86a8-2ba60c248333/artifacts/0/logs/manifest-merger-debug-report.txt",
+  "node_index" : 0,
+  "pretty_path" : "logs/manifest-merger-debug-report.txt"
+}, {
+  "path" : "logs/manifest-merger-release-report.txt",
+  "url" : "https://output.circle-artifacts.com/output/job/564208e7-9b3e-47c5-86a8-2ba60c248333/artifacts/0/logs/manifest-merger-release-report.txt",
+  "node_index" : 0,
+  "pretty_path" : "logs/manifest-merger-release-report.txt"
+}, {
+  "path" : "reports/lint-results-release-fatal.html",
+  "url" : "https://output.circle-artifacts.com/output/job/564208e7-9b3e-47c5-86a8-2ba60c248333/artifacts/0/reports/lint-results-release-fatal.html",
+  "node_index" : 0,
+  "pretty_path" : "reports/lint-results-release-fatal.html"
+}, {
+  "path" : "reports/lint-results-release-fatal.xml",
+  "url" : "https://output.circle-artifacts.com/output/job/564208e7-9b3e-47c5-86a8-2ba60c248333/artifacts/0/reports/lint-results-release-fatal.xml",
+  "node_index" : 0,
+  "pretty_path" : "reports/lint-results-release-fatal.xml"
+}, {
+  "path" : "reports/lint-results.html",
+  "url" : "https://output.circle-artifacts.com/output/job/564208e7-9b3e-47c5-86a8-2ba60c248333/artifacts/0/reports/lint-results.html",
+  "node_index" : 0,
+  "pretty_path" : "reports/lint-results.html"
+}, {
+  "path" : "reports/lint-results.xml",
+  "url" : "https://output.circle-artifacts.com/output/job/564208e7-9b3e-47c5-86a8-2ba60c248333/artifacts/0/reports/lint-results.xml",
+  "node_index" : 0,
+  "pretty_path" : "reports/lint-results.xml"
+}, {
+  "path" : "apk/debug/navit-debug.apk",
+  "url" : "https://output.circle-artifacts.com/output/job/564208e7-9b3e-47c5-86a8-2ba60c248333/artifacts/0/apk/debug/navit-debug.apk",
+  "node_index" : 0,
+  "pretty_path" : "apk/debug/navit-debug.apk"
+}, {
+  "path" : "apk/debug/output.json",
+  "url" : "https://output.circle-artifacts.com/output/job/564208e7-9b3e-47c5-86a8-2ba60c248333/artifacts/0/apk/debug/output.json",
+  "node_index" : 0,
+  "pretty_path" : "apk/debug/output.json"
+}, {
+  "path" : "apk/release/navit-release.apk",
+  "url" : "https://output.circle-artifacts.com/output/job/564208e7-9b3e-47c5-86a8-2ba60c248333/artifacts/0/apk/release/navit-release.apk",
+  "node_index" : 0,
+  "pretty_path" : "apk/release/navit-release.apk"
+}, {
+  "path" : "apk/release/output.json",
+  "url" : "https://output.circle-artifacts.com/output/job/564208e7-9b3e-47c5-86a8-2ba60c248333/artifacts/0/apk/release/output.json",
+  "node_index" : 0,
+  "pretty_path" : "apk/release/output.json"
+} ]
