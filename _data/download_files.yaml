@@ -1,0 +1,11 @@
+datatypes:
+ - apk
+ - exe
+ - zip
+ - deb
+ - cab
+ - rpm
+
+filenames:
+ - navit.sh
+ - navit.tar.gz
