@@ -21,25 +21,10 @@
     {% assign some_string_size = some_string | size %}
     {% assign start_index = some_string_size | minus: sub_string_size %}
     {% assign result = some_string | slice: start_index, sub_string_size %}
-    {% if result == 'apk' %}
+    {% if site.data.download_files.datatypes contains result %}
         <a href="{{ artifact.url }}" class="btn btn-primary mt-1">Download: {{ filename }}</a>
     {% endif %}
-    {% if result == 'exe' %}
-        <a href="{{ artifact.url }}" class="btn btn-primary mt-1">Download: {{ filename }}</a>
-    {% endif %}
-    {% if result == 'zip' %}
-        <a href="{{ artifact.url }}" class="btn btn-primary mt-1">Download: {{ filename }}</a>
-    {% endif %}
-    {% if result == 'deb' %}
-        <a href="{{ artifact.url }}" class="btn btn-primary mt-1">Download: {{ filename }}</a>
-    {% endif %}
-    {% if result == 'cab' %}
-        <a href="{{ artifact.url }}" class="btn btn-primary mt-1">Download: {{ filename }}</a>
-    {% endif %}
-    {% if result == 'rpm' %}
-        <a href="{{ artifact.url }}" class="btn btn-primary mt-1">Download: {{ filename }}</a>
-    {% endif %}
-    {% if filename == 'navit.sh' or filename == 'navit.tar.gz' %}
+    {% if site.data.download_files.filenames contains filename %}
         <a href="{{ artifact.url }}" class="btn btn-primary mt-1">Download: {{ filename }}</a>
     {% endif %}
 {% endfor %}
